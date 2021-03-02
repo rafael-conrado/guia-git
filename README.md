@@ -1,4 +1,8 @@
 # guia-git
+
+Este é um pequeno guia que fiz no início do meu curso técnico de desenvolvimento de sistemas para quem precisar iniciar com a ferramenta GIT este pode ajudar.
+
+
 GUIA SEM IMAGENS
 
 Guia para criar e subir arquivos em seu repositório GIT
